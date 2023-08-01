@@ -1,6 +1,6 @@
 module github.com/guestbook-go-assignment
 
-go 1.16
+go 1.17
 
 require (
     github.com/codegangsta/negroni v1.0.0

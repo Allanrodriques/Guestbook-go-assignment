@@ -2,10 +2,6 @@ github.com/codegangsta/negroni v1.0.0 h1:+aYywywx4bnKXWvoWtRfJ91vC59NbEhEY03sZjQ
 github.com/codegangsta/negroni v1.0.0/go.mod h1:v0y3T5G7Y1UlFfyxFn/QLRU4a2EuNau2iZY63YTKWo0=
 github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
-github.com/xyproto/pinterface v1.5.3 h1:RKkNT88cwrSqD9hU4cYAO5yeo8srg4TG+74Pcj88iz0=
-github.com/xyproto/pinterface v1.5.3/go.mod h1:X5B5pKE49ak7SpyDh5QvJvLH9cC9XuZNDcl5hEyYc34=
-github.com/xyproto/simpleredis v2.6.5+incompatible h1:eghMfrjX+r1Ox9luPSZHctEEy5gd5tqgH7Azqvmfhu8=
-github.com/xyproto/simpleredis v2.6.5+incompatible/go.mod h1:uSYFxIza9OX4jlWn/KHQRd0YDCXza/L/S4WatobDE0U=
 github.com/xyproto/simpleredis/v2 v2.6.5 h1:PtAz5j2UUACNHx5LetI60dbCsVMhIv1H878bND4VQK4=
 github.com/xyproto/simpleredis/v2 v2.6.5/go.mod h1:OrWVubZGr0SbpAjkAQkFn/iiex2AsblBm80uhYxbjQY=
 

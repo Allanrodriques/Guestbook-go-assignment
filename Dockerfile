@@ -17,6 +17,7 @@ WORKDIR /app
 ADD ./main.go .
 COPY *.go ./
 COPY go.mod ./
+COPY go.sum ./
 copy . . 
 RUN go mod download
 RUN CGO_ENABLED=0 GOOS=linux go build -o main .

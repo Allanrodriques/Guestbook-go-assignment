@@ -4,4 +4,8 @@ github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
 github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
 github.com/xyproto/simpleredis/v2 v2.6.5 h1:PtAz5j2UUACNHx5LetI60dbCsVMhIv1H878bND4VQK4=
 github.com/xyproto/simpleredis/v2 v2.6.5/go.mod h1:OrWVubZGr0SbpAjkAQkFn/iiex2AsblBm80uhYxbjQY=
+github.com/xyproto/simpleredis/v2 v2.6.5 h1:PtAz5j2UUACNHx5LetI60dbCsVMhIv1H878bND4VQK4=
+github.com/xyproto/simpleredis/v2 v2.6.5/go.mod h1:OrWVubZGr0SbpAjkAQkFn/iiex2AsblBm80uhYxbjQY=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 

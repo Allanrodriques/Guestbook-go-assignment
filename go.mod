@@ -1,3 +1,10 @@
-module guestbook/my-go-project
+module guestbook
 
 go 1.17
+
+require (
+    github.com/codegangsta/negroni v1.0.0
+    github.com/gorilla/mux v1.8.0
+    github.com/xyproto/simpleredis v0.0.0-20220707103722-537c9bc75fca
+)
+

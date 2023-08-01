@@ -16,6 +16,9 @@ FROM golang:1.10.0 AS build
 WORKDIR /app
 ADD ./main.go .
 COPY *.go ./
+RUN go get github.com/codegangsta/negroni \
+   github.com/gorilla/mux \
+   github.com/xyproto/simpleredis
 RUN CGO_ENABLED=0 GOOS=linux go build -o main .
 
 FROM scratch
